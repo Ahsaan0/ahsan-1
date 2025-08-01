@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AyanKhurt&data=followers,repositories,stars,commits&theme=radical&hide_border=true)](https://github.com/Hasanhayat/HasanHayat-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ahsant&data=followers,repositories,stars,commits&theme=radical&hide_border=true)](https://github.com/Hasanhayat/HasanHayat-widgetbox)
 
  <img src="https://komarev.com/ghpvc/?username=AyanKhurram&label=Profile%20views&color=0e75b6&style=flat" alt="hasanhayat" />
 
@@ -15,19 +15,19 @@
 
 ### 👋 About Me
 
-## Hi, I’m Ayan Khurram 👋 Passionate Frontend Developer and JavaScript Enthusiast!
+## Hi, I’m Ahsan  Ali 👋 Passionate Frontend Developer and JavaScript Enthusiast!
 
 ### 🚀 Core Technologies
-- **HTML5**, **CSS3**, **JavaScript (ES6+)**, **TypeScript**
+- **HTML5**, **CSS3**, **JavaScript (ES6+)**, 
 
 ### 📚 Frameworks & Libraries
-- **React.js**, **Next.js**, **Tailwindcss**, **Bootstrap**, **Material-UI**, **Chakra UI**, **Ant Design**
+- **React.js**, **Next.js**, **Tailwindcss**, **Bootstrap**, **Material-UI**, , **Ant Design**
 
 ### 🛠️ Tools
 - **Font Awesome**, **API Integration**, **Responsive Design**, **GSAP**,
 
 ### 🗄️ Content Management System(CMS)
-- **Firebase**, **Supabase**, **Appwrite**
+- **Firebase**, **Supabase**
 
 ### 📂 Version Control
 - **Git** and **GitHub**
@@ -72,8 +72,8 @@ I specialize in building **interactive** and **responsive web interfaces**, expl
 
 ### 📫 How to Reach Me
 
-- **Email:** ayankhurt@gmail.com
-- **WhatsApp:** +92 3269676564
+- **Email:** ahsanchamp009"gmail.com
+- **WhatsApp:** 0340 2466202
 
 ---
 
